@@ -43,7 +43,7 @@ plt.plot(X,Y_pred,color="red")
 plt.show()
 
 ```
-![alt text](<Screenshot 2024-04-27 230901.png>)
+![alt text](image-2.png)
 ## Output
 ![alt text](image-1.png)
 
